@@ -6,11 +6,10 @@ There are three ways to install this package:
   
     net install redcap, from("https://raw.githubusercontent.com/james-hedley/redcap/main/")
   
-  
   2. Download the .ado and .sthlp files, and save them in your personal ADO folder. You can find where your personal ADO folder is located by typing -sysdir- in Stata
  
   3. Manually install within Stata (if -net install- fails). To install the command and then view the help file type:
     
-    do "https://raw.githubusercontent.com/james-hedley/extract_notes/main/redcap.do"
+    do "https://raw.githubusercontent.com/james-hedley/redcap/main/redcap.do"
     
-    type "https://raw.githubusercontent.com/james-hedley/extract_notes/main/redcap.sthlp"
+    type "https://raw.githubusercontent.com/james-hedley/redcap/main/redcap.sthlp"
