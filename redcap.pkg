@@ -1,0 +1,6 @@
+* redcap.pkg
+v 3
+d redcap
+d  Commands to export and import datasets directly from REDCap (using cURL)
+f redcap.ado
+f redcap.sthlp
